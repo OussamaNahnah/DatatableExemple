@@ -25,3 +25,4 @@ To run the exemple:
 6. **Run the Application:**
    - Place your project files in the "htdocs" folder (or equivalent) of XAMPP.
    - Open your web browser and go to `http://localhost/your_project_folder/index.php`, replacing "your_project_folder" with the actual folder name where your project is located.
+![image](https://github.com/OussamaNahnah/DatatableExemple/blob/main/screenshot.png)
